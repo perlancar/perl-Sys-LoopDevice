@@ -1,5 +1,12 @@
 Revision history for Sys-LoopDevice
 
+0.002   2016-08-31 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild to remove extraneous dependencies.
+
+
 0.001   2016-08-31 (PERLANCAR)
 
         - First release.
