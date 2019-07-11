@@ -1,4 +1,4 @@
-0.003   2016-12-28 (PERLANCAR)
+0.003   2016-12-28  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -6,13 +6,13 @@
 	  x_spec.
 
 
-0.002   2016-08-31 (PERLANCAR)
+0.002   2016-08-31  Released-By: PERLANCAR
 
         - No functional changes.
 
         - [build] Rebuild to remove extraneous dependencies.
 
 
-0.001   2016-08-31 (PERLANCAR)
+0.001   2016-08-31  Released-By: PERLANCAR
 
         - First release.
